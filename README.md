@@ -6,5 +6,5 @@
 
 | # | Project | DEMO |
 | --- | --- | --- |
-| 01 | JavaScript Drum Kit | [Live Demo](https://jayredk.github.io/JavaScript30/01-expanding_cards) |
+| 01 | Expanding Cards | [Live Demo](https://jayredk.github.io/JavaScript30/01-expanding_cards) |
 
