@@ -9,3 +9,4 @@
 | 01 | Expanding Cards | [Live Demo](https://jayredk.github.io/50projects/01-expanding_cards) |
 | 02 | Progress Steps | [Live Demo](https://jayredk.github.io/50projects/02-progress-steps) |
 | 03 | Rotating Navigation | [Live Demo](https://jayredk.github.io/50projects/03-rotating-nav-animation) |
+| 04 | Hidden Search Widget | [Live Demo](https://jayredk.github.io/50projects/04-hidden-search) |
