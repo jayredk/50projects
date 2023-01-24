@@ -6,7 +6,8 @@
 
 | # | Project | DEMO |
 | --- | --- | --- |
-| 01 | Expanding Cards | [Live Demo](https://jayredk.github.io/50projects/01-expanding_cards) |
-| 02 | Progress Steps | [Live Demo](https://jayredk.github.io/50projects/02-progress-steps) |
-| 03 | Rotating Navigation | [Live Demo](https://jayredk.github.io/50projects/03-rotating-nav-animation) |
-| 04 | Hidden Search Widget | [Live Demo](https://jayredk.github.io/50projects/04-hidden-search) |
+| 01 | [Expanding Cards](https://github.com/jayredk/50projects/tree/main/01-expanding_cards) | [Live Demo](https://jayredk.github.io/50projects/01-expanding_cards) |
+| 02 | [Progress Steps](https://github.com/jayredk/50projects/tree/main/02-progress-steps) | [Live Demo](https://jayredk.github.io/50projects/02-progress-steps) |
+| 03 | [Rotating Navigation](https://github.com/jayredk/50projects/tree/main/03-rotating-nav-animation) | [Live Demo](https://jayredk.github.io/50projects/03-rotating-nav-animation) |
+| 04 | [Hidden Search Widget](https://github.com/jayredk/50projects/tree/main/04-hidden-search) | [Live Demo](https://jayredk.github.io/50projects/04-hidden-search) |
+| 05 | [Blurry Loading](https://github.com/jayredk/50projects/tree/main/05-blurry-loading) | [Live Demo](https://jayredk.github.io/50projects/05-blurry-loading) |
