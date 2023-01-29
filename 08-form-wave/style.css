@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli:wght@400;700&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: steelblue;
+  font-family: 'Muli', sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+.form {
+  width: 500px;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+  color: #fff;
+  padding: 3rem;
+}
+
+.form h1 {
+  font-size: 40px;
+  margin: 0;
+  margin-bottom: 3rem;
+}
+
+.form-control {
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.form-control label {
+  position: absolute;
+  top: -15px;
+  left: 0;
+}
+
+.form-control input {
+  width: 100%;
+  padding: 0.5rem;
+  padding-left: 0;
+  font-size: 20px;
+  margin-bottom: 0.5rem;
+  color: #fff;
+  border: 0;
+  border-bottom: 1px solid #fff;
+  background-color: transparent;
+}
+.form-control span {
+  display: inline-block;
+  min-width: 5px;
+  transition: transform .3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.form-control input:focus,
+.form-control input:valid {
+  outline: 0;
+  border-bottom-color: lightblue
+}
+
+.form-control input:focus + label span,
+.form-control input:valid + label span {
+  color: lightblue;
+  transform: translateY(-15px);
+}
+
+
+.btn {
+  width: 100%;
+  font-size: 20px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  cursor: pointer;
+  color: #000;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background-color: lightblue;
+  transition: transform 0.3s ease, background-color 0.3s ease-in-out;
+}
+
+.btn:hover {
+  background-color: rgba(160, 250, 210, 1);
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+.form p {
+  margin: 0;
+}
+
+.form a {
+  color: lightblue;
+}
