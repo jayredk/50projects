@@ -13,3 +13,4 @@
 | 05 | [Blurry Loading](https://github.com/jayredk/50projects/tree/main/05-blurry-loading) | [Live Demo](https://jayredk.github.io/50projects/05-blurry-loading) |
 | 06 | [Scroll Animation](https://github.com/jayredk/50projects/tree/main/06-scroll-animation) | [Live Demo](https://jayredk.github.io/50projects/06-scroll-animation) |
 | 07 | [Split Landing Page](https://github.com/jayredk/50projects/tree/main/07-split-landing-page) | [Live Demo](https://jayredk.github.io/50projects/07-split-landing-page) |
+| 08 | [Form Wave](https://github.com/jayredk/50projects/tree/main/08-form-wave) | [Live Demo](https://jayredk.github.io/50projects/08-form-wave) |
