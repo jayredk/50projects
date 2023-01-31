@@ -15,3 +15,4 @@
 | 07 | [Split Landing Page](https://github.com/jayredk/50projects/tree/main/07-split-landing-page) | [Live Demo](https://jayredk.github.io/50projects/07-split-landing-page) |
 | 08 | [Form Wave](https://github.com/jayredk/50projects/tree/main/08-form-wave) | [Live Demo](https://jayredk.github.io/50projects/08-form-wave) |
 | 09 | [Sound Board](https://github.com/jayredk/50projects/tree/main/09-sounds-board) | [Live Demo](https://jayredk.github.io/50projects/09-sounds-board) |
+| 10 | [Dad Jokes](https://github.com/jayredk/50projects/tree/main/10-dad-jokes) | [Live Demo](https://jayredk.github.io/50projects/10-dad-jokes) |
