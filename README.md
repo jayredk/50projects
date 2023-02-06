@@ -18,3 +18,6 @@
 | 10 | [Dad Jokes](https://github.com/jayredk/50projects/tree/main/10-dad-jokes) | [Live Demo](https://jayredk.github.io/50projects/10-dad-jokes) |
 | 11 | [Event KeyCode](https://github.com/jayredk/50projects/tree/main/11-event-keycode) | [Live Demo](https://jayredk.github.io/50projects/11-event-keycode) |
 | 12 | [Faq Collapse](https://github.com/jayredk/50projects/tree/main/12-faq-collapse) | [Live Demo](https://jayredk.github.io/50projects/12-faq-collapse) |
+| 13 | [Random Choice Picker](https://github.com/jayredk/50projects/tree/main/13-random-choice-picker) | [Live Demo](https://jayredk.github.io/50projects/13-random-choice-picker) |
+| 14 | [Animated Navigation](https://github.com/jayredk/50projects/tree/main/14-animated-navigation) | [Live Demo](https://jayredk.github.io/50projects/14-animated-navigation) |
+| 15 | [Incrementing Counter](https://github.com/jayredk/50projects/tree/main/15-incrementing-counter) | [Live Demo](https://jayredk.github.io/50projects/15-incrementing-counter) |
