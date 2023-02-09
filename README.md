@@ -21,3 +21,5 @@
 | 13 | [Random Choice Picker](https://github.com/jayredk/50projects/tree/main/13-random-choice-picker) | [Live Demo](https://jayredk.github.io/50projects/13-random-choice-picker) |
 | 14 | [Animated Navigation](https://github.com/jayredk/50projects/tree/main/14-animated-navigation) | [Live Demo](https://jayredk.github.io/50projects/14-animated-navigation) |
 | 15 | [Incrementing Counter](https://github.com/jayredk/50projects/tree/main/15-incrementing-counter) | [Live Demo](https://jayredk.github.io/50projects/15-incrementing-counter) |
+| 16 | [Drink Water](https://github.com/jayredk/50projects/tree/main/16-drink-water) | [Live Demo](https://jayredk.github.io/50projects/16-drink-water) |
+| 17 | [Movie App](https://github.com/jayredk/50projects/tree/main/17-movie-app) | [Live Demo](https://jayredk.github.io/50projects/17-movie-app) |
