@@ -25,3 +25,5 @@
 | 17 | [Movie App](https://github.com/jayredk/50projects/tree/main/17-movie-app) | [Live Demo](https://jayredk.github.io/50projects/17-movie-app) |
 | 18 | [Background Slider](https://github.com/jayredk/50projects/tree/main/18-background-slider) | [Live Demo](https://jayredk.github.io/50projects/18-background-slider) |
 | 19 | [Theme Clock](https://github.com/jayredk/50projects/tree/main/19-theme-clock) | [Live Demo](https://jayredk.github.io/50projects/19-theme-clock) |
+| 20 | [Button Ripple Effect](https://github.com/jayredk/50projects/tree/main/20-button-ripple-effect) | [Live Demo](https://jayredk.github.io/50projects/20-button-ripple-effect) |
+| 21 | [Drag N Drop](https://github.com/jayredk/50projects/tree/main/21-drag-n-drop) | [Live Demo](https://jayredk.github.io/50projects/21-drag-n-drop) |
